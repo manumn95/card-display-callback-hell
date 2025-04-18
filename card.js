@@ -40,4 +40,4 @@ function displayUser(data,pos, className=''){
         divEle.insertAdjacentHTML(pos, card);
 }
 
-getDetails(1);
+getDetails(2);
